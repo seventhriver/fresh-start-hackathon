@@ -1,4 +1,6 @@
 # Hackathon
+## NOTE: WE DID DEV BY SSHING INTO ADHI'S MACHINE, A COOL NEW INNOVATIVE STRATEGY
+
 
 Here's a  full-stack idea: "ProduceSaver: Smart Food Bank Distribution Network"
 Problem:
