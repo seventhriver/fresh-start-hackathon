@@ -74,10 +74,6 @@ Has room for innovation
 Tackles a universal problem
 Could actually be implemented
 
-Want me to dive deeper into any aspect?
-give me a bigger feature list
-Here's an expanded feature list for ProduceSaver, broken down by user type and functionality:
-
 Donor Features (Stores/Restaurants):
 1. Donation dashboard
 - Quick-add inventory system
@@ -221,4 +217,3 @@ Additional Features:
 - Impact visualization
 - Donation campaigns
 
-This expanded feature list provides a comprehensive view of what could be implemented in the system. For a hackathon MVP, you'd want to focus on the core features first and then expand based on user feedback and needs.
